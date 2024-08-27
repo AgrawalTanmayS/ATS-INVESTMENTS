@@ -58,9 +58,9 @@ header nav ul {
     justify-content: center;
 }
 
-/* header nav ul li {
-    margin: 0 5px;
-} */
+header nav ul li {
+    margin: 0 15px;
+}
 
 header nav ul li a {
     color: white;
@@ -206,6 +206,10 @@ footer a:hover {
 
     .logo{
         visibility: hidden;
+    }
+
+    nav ul li{
+        margin: 10px 0;
     }
 }
 
