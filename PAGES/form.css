@@ -59,7 +59,7 @@ header nav ul {
 }
 
 header nav ul li {
-    margin: 0 15px;
+    margin: 0 10px;
 }
 
 header nav ul li a {
@@ -208,8 +208,8 @@ footer a:hover {
         visibility: hidden;
     }
 
-    nav ul li{
-        margin: 10px 0;
+    header nav ul li{
+        margin: 5px 0;
     }
 }
 
