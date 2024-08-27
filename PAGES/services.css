@@ -139,11 +139,8 @@ footer a:hover {
 }
 
 /* Responsive Styles */
-@media (max-width: 760px) {
-    header h1 {
-        font-size: 2em;
-    }
-
+@media (max-width: 768px) {
+    
     .service-item {
         padding: 15px;
     }
@@ -157,6 +154,10 @@ footer a:hover {
     }
 
     nav ul li {
-        margin: 5px O;
+        margin: 10px 0;
+    }
+
+    header h1 {
+        font-size: 2em;
     }
 }
