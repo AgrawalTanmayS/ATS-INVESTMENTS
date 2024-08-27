@@ -7,7 +7,7 @@ body {
 }
 
 body {
-    background-image: url('../ICONS/background.jpeg');
+    background-image: url('./ICONS/background.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
