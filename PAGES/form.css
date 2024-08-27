@@ -58,9 +58,9 @@ header nav ul {
     justify-content: center;
 }
 
-header nav ul li {
+/* header nav ul li {
     margin: 0 5px;
-}
+} */
 
 header nav ul li a {
     color: white;
@@ -196,9 +196,9 @@ footer a:hover {
         font-size: 2em;
     }
 
-    header a {
+/*     header a {
         font-size: 10px;
-    }
+    } */
 
     .form-group button {
         font-size: 1em;
