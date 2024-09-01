@@ -207,6 +207,11 @@ footer a:hover {
     .logo{
         visibility: hidden;
     }
+
+    nav ul li{
+        font-size: 13px;
+        margin: 8px 0;
+    }
 }
 
 
